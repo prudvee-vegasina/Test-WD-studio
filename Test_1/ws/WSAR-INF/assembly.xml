@@ -14,6 +14,9 @@
         <cc:workday-in id="StartHere">
             <cc:integration-system name="Test_1"/>
         </cc:workday-in>
+        <cc:workday-in id="StartHere0">
+            <cc:integration-system name="Test_10"/>
+        </cc:workday-in>
 	</cc:assembly>
 
 </beans>
