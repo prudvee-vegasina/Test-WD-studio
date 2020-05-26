@@ -17,6 +17,7 @@
         <cc:workday-in id="StartHere0">
             <cc:integration-system name="Test_10"/>
         </cc:workday-in>
+        <cc:local-in id="SubRoutine"/>
 	</cc:assembly>
 
 </beans>
