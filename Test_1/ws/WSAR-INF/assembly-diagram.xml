@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wdnm:Diagram xmlns:wdnm="http://workday.com/studio/editors/notation">
+  <element href="assembly.xml#WorkdayAssembly"/>
+  <visualProperties x="252" y="204">
+    <element href="assembly.xml#StartHere"/>
+  </visualProperties>
+</wdnm:Diagram>
